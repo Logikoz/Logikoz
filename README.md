@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/200px-C_Sharp_logo.svg.png">
+<img align="right" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/200px-C_Sharp_logo.svg.png">
 
 ## Sobre
 
