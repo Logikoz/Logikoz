@@ -10,8 +10,12 @@ Jovem apaixonado por programação e eletrônica
 
 ## Social
 <div align="center">
+  <a>
   [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Siga-me&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/Logikoz)](https://twitter.com/Logikoz)
+  </a>
+  <a>
   [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=Conecte-se&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/Logikoz)](https://www.linkedin.com/in/Logikoz)
+  </a>
 </div>
 
 ![Personal Infos](https://github-readme-stats.vercel.app/api?username=logikoz&show_icons=true&count_private=true&hide_title=true)
