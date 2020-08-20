@@ -20,4 +20,3 @@ Jovem apaixonado por programação e eletrônica
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=speckoz&repo=Quiz)](https://github.com/speckoz/Quiz)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=speckoz&repo=Nomenclatura)](https://github.com/speckoz/Nomenclatura)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Logikoz&repo=RoboSeguidorLinha-ViverCiencia2019)](https://github.com/Logikoz/RoboSeguidorLinha-ViverCiencia2019)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Logikoz&repo=DB-Alunos-PortugolStudio)](https://github.com/Logikoz/DB-Alunos-PortugolStudio)
