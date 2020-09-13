@@ -2,6 +2,10 @@
 
 ## Sobre
 
+Nome: Ruan Carlos
+Idade: 20
+Naturalidade: RA/AC
+
 💜 .NET FullStack
 
 ⚡ Estudante de Engenharia Elétrica
