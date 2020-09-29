@@ -8,8 +8,6 @@
 
 💜 .NET FullStack
 
-⚡ Estudante de Engenharia Elétrica
-
 Jovem apaixonado por programação e eletrônica
 
 ## Social
