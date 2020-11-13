@@ -18,6 +18,7 @@ Jovem apaixonado por programação e eletrônica
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logikoz&hide=javascript,html,css&layout=compact&count_private=true&title_color=9d0af5&hide_border=true)](https://github.com/logikoz)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=logikoz&repo=He4rt-MSGraph-Xamarin-2020)](https://github.com/Logikoz/He4rt-MSGraph-Xamarin-2020)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DantasB&repo=CSharp4Noobs)](https://github.com/DantasB/CSharp4Noobs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=speckoz&repo=UniLinks)](https://github.com/speckoz/UniLinks)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=speckoz&repo=BukkitDev)](https://github.com/speckoz/BukkitDev)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=speckoz&repo=Quiz)](https://github.com/speckoz/Quiz)
