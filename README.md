@@ -1,6 +1,6 @@
 ![logikoz header](https://user-images.githubusercontent.com/37851168/108443843-85433f80-7227-11eb-9ba3-58df04c0f403.png)
 
-<img align="right" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/200px-C_Sharp_logo.svg.png">
+<img align="right" width="150" height="150" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png">
 
 ## Sobre
 
