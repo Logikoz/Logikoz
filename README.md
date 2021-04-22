@@ -4,7 +4,7 @@
 
 ## Sobre
 
-##### Nome: Ruan Carlos
+##### Nome: Ruan Carlos CS
 ##### Idade: 20
 ##### Naturalidade: RA/AC
 
