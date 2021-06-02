@@ -2,7 +2,7 @@
 
 <img align="right" width="250" height="150" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png">
 
-## Sobre
+## <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/Logikoz/Logikoz/master/Logo%20-%20Purple%20-%20White%20-%20Purple.svg"> Sobre
 
 ##### Nome: Ruan Carlos CS
 ##### Idade: 20
