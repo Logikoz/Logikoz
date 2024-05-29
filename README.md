@@ -5,7 +5,7 @@
 ## <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/Logikoz/Logikoz/master/Logo%20-%20Purple%20-%20White%20-%20Purple.svg"> Sobre
 
 ##### Nome: Ruan Carlos CS
-##### Idade: 23
+##### Idade: 24
 ##### Naturalidade: RA/AC
 
 💜 .NET FullStack
