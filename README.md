@@ -1,16 +1,14 @@
-![logikoz header](https://user-images.githubusercontent.com/37851168/108443843-85433f80-7227-11eb-9ba3-58df04c0f403.png)
+![logikoz header](https://github.com/user-attachments/assets/299b9bab-d31c-43e3-bc55-1467db1422b4)
 
 <img align="right" width="250" height="150" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png">
 
 ## <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/Logikoz/Logikoz/master/Logo%20-%20Purple%20-%20White%20-%20Purple.svg"> Sobre
 
-##### Nome: Ruan Carlos CS
-##### Idade: 24
-##### Naturalidade: RA/AC
-
-💜 .NET FullStack
+💜 .NET Developer | Infra/Architecture Entusiast
 
 Jovem apaixonado por programação e eletrônica
+<br/>
+Criando coisas e fazendo merda desde 2012.
 
 ## Social
-[![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=Conecte-se&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/Logikoz)](https://www.linkedin.com/in/Logikoz)
+[![Nostr URL](https://github.com/user-attachments/assets/43be43e4-f43f-4776-bd43-49158fba5e3f)](https://jumble.social/users/npub1a5pl548ps6qdkpzpmlgkhnmh2hpntpk2gk3nee08e5spp5wzr3qqk7glwn)
