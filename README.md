@@ -6,7 +6,7 @@
 
 Jovem apaixonado por programação e eletrônica
 <br/>
-Criando coisas e fazendo merda desde 2012.
+Criando coisas e fazendo besteira desde 2012.
 
 ## Social
 [![Nostr URL](https://github.com/user-attachments/assets/43be43e4-f43f-4776-bd43-49158fba5e3f)](https://jumble.social/users/npub1a5pl548ps6qdkpzpmlgkhnmh2hpntpk2gk3nee08e5spp5wzr3qqk7glwn)
